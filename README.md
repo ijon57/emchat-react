@@ -4,6 +4,9 @@ Simple web chat app using [React.js](https://facebook.github.io/react/), native 
 
 Run using [Thin](https://github.com/macournoyer/thin/):
 
-`bundle install`
+```
+bundle install
+bundle exec thin start
+```
 
-`bundle exec thin start`
+Go to http://localhost:3000
