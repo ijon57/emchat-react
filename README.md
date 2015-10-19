@@ -9,4 +9,4 @@ bundle install
 bundle exec thin start
 ```
 
-Go to http://localhost:3000
+Go to _http://localhost:3000_ (default port).
